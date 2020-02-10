@@ -1,4 +1,4 @@
-# FEND-Project1-Responsive-Portfolio
+# Responsive Portfolio Project
 
 This is a project to create a responsive portfolio by using CSS & HTML.
 
